@@ -2,6 +2,7 @@
 HP Elitebook 1050G1Hackintosh based on Opencore 0.9.5
 
 #**Before Installation** 
+Also dont forget to hide TMP chip and disable legacy and SecureBoot in your bios.
 
 1: Use SSDTTime to **generate device specific aspci** /Just replace mine
 
@@ -9,9 +10,11 @@ HP Elitebook 1050G1Hackintosh based on Opencore 0.9.5
 
 3: **Disable IntelBluetoothInjector.kext**, **IntelBluetoothFirmware.kext**, **IntelBTPatcher.kext** in config.plist
 
-4: **Replace AirportItlwm.kext** with one for your OS installation
+4: **Install AirportItlwm.kext** for your macOS version
 
 5: Your hardware may warry: Use Opencore Configurator, Hackintoool, USBToolbx tool to **customize this EFI folder** to **your** specific **needs**
+
+6: Create folder NVRAM in same directory as EFI folder
 
 
 #**Working:**
