@@ -2,6 +2,7 @@
 HP Elitebook 1050G1Hackintosh based on Opencore 0.9.5
 
 #**Before Installation** 
+
 1:Use SSDTTime to **generate device specific aspci** /Just replace mine
 2: **Generate your own SMBIOS** for **MacBookPro15,2**
 3: **Disable IntelBluetoothInjector.kext**, **IntelBluetoothFirmware.kext**, **IntelBTPatcher.kext** in config.plist
@@ -15,3 +16,5 @@ Wifi - Bluetooth - Audio - Igpu - sleep
 Camera, sd card port, hdmi, and usbc to hdmi adapter
 
 [**AirportItlwm**](https://github.com/OpenIntelWireless/itlwm/releases/)
+
+
