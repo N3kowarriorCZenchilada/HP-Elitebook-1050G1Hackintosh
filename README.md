@@ -1,5 +1,6 @@
 # HP-Elitebook-1050G1Hackintosh
 HP Elitebook 1050G1Hackintosh based on Opencore 0.9.5
+
 >Replace your nvme with nvme sata ssd, or look for compatible one with sucesfull installation.
 
 #**Before Installation** 
