@@ -3,7 +3,7 @@
 
 ## This wouldn't be possible to make for me without help from [Feartech](https://www.tonymacx86.com/members/feartech.877703/#about) and [TonyMacx86 Forum](https://www.tonymacx86.com).
 <p>
-  <img src="image.png" width="350" title="hover text" align="left">
+  <img src="image.png" width="175" title="hover text" align="left">
   <img src="image2.png" width="350" title="hover text" align="right">
 </p>
 
