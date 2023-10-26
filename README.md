@@ -6,6 +6,7 @@ HP Elitebook 1050G1Hackintosh based on Opencore 0.9.5
 Before Installation
 (Dont forget to hide TMP chip and disable legacy + SecureBoot in your bios.)
 <p>&nbsp;</p>
+
 1: Use SSDTTime to **generate device specific aspci** /Just replace mine
 
 2: **Generate your own SMBIOS** for **MacBookPro15,2**
@@ -29,13 +30,13 @@ After Installation
 <p>&nbsp;</p>
 Big Sur
 <p>&nbsp;</p>
->**Working:**
+**Working:**
 
->Wifi - Bluetooth - Audio - Igpu - sleep
+--> Wifi - Bluetooth - Audio - Igpu - sleep
 
->**Doesnt work:**
+**Doesnt work:**
 
->Camera, sd card port, hdmi, and usbc to hdmi adapter
+--> Camera, sd card port, hdmi, and usbc to hdmi adapter
 
 
 
