@@ -35,7 +35,7 @@ Select the option named after your installation drive and do the final setup. Af
 ## After Installation
 
 1. Re-enable kexts in config.plist:
-   - IntelBTPatcher.kext
+   - IntelBTPatcher.kext / IntelBlueToolFixup.kext
    - IntelBluetoothInjector.kext
    - IntelBluetoothFirmware.kext
    - HibernationFixup.kext
