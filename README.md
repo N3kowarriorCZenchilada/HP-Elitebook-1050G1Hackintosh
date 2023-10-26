@@ -30,8 +30,11 @@ After Installation
 Big Sur
 <p>&nbsp;</p>
 >**Working:**
+
 >Wifi - Bluetooth - Audio - Igpu - sleep
+
 >**Doesnt work:**
+
 >Camera, sd card port, hdmi, and usbc to hdmi adapter
 
 
