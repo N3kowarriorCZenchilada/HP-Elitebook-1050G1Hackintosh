@@ -8,6 +8,7 @@
 </p>
 
 >His [Github](https://github.com/feartech)
+>[Post](https://www.tonymacx86.com/threads/hp-elitebook-1050-g1-cannot-boot-to-recovery.327519/)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
