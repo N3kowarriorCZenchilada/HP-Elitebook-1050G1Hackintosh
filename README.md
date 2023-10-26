@@ -3,7 +3,7 @@ HP Elitebook 1050G1Hackintosh based on Opencore 0.9.5
 >Replace your nvme with nvme sata ssd, or look for compatible one with sucesfull installation.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-**Before Installation**
+Before Installation
 (Dont forget to hide TMP chip and disable legacy + SecureBoot in your bios.)
 <p>&nbsp;</p>
 1: Use SSDTTime to **generate device specific aspci** /Just replace mine
@@ -19,7 +19,7 @@ HP Elitebook 1050G1Hackintosh based on Opencore 0.9.5
 7: Start Installation
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-**After Installation** 
+After Installation
 <p>&nbsp;</p>
 1: Re-enable kexts in config.plist:
 >IntelBTPatcher.kext, IntelBluetoothInjector.kext, IntelBluetoothFirmware.kext, HibernationFixup.kext, RealtekCardReader.kext (If I manage to get card reader working)
@@ -27,7 +27,7 @@ HP Elitebook 1050G1Hackintosh based on Opencore 0.9.5
 2: Use tools like: hackintool, Opencore configurator to customize the installation to your needs and hardware specifics.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-**Big Sur**
+Big Sur
 <p>&nbsp;</p>
 >**Working:**
 >Wifi - Bluetooth - Audio - Igpu - sleep
