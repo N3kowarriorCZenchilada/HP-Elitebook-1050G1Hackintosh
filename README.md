@@ -40,7 +40,8 @@ Select the option named after your installation drive and do the final setup. Af
    - IntelBluetoothInjector.kext
    - IntelBluetoothFirmware.kext
    - HibernationFixup.kext
-   - RealtekCardReader.kext (If I manage to get card reader working).
+   - RealtekCardReader.kext
+   - RealtekCardReaderFriend.kext
 
 2. Use tools like Hackintool, Opencore Configurator to customize the installation to your needs and hardware specifics.
 
