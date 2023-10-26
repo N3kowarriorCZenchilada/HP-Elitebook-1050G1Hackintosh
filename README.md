@@ -45,6 +45,11 @@ Select the option named after your installation drive and do the final setup. Af
 
 2. Use tools like Hackintool, Opencore Configurator to customize the installation to your needs and hardware specifics.
 
+3. Settings after installation :
+   - Disable Haptic feedback
+   - Configure Trackpad speed
+   - Configure Microphone and Default Audio device
+
 ## Big Sur
 
 **Working:**
@@ -58,6 +63,7 @@ Select the option named after your installation drive and do the final setup. Af
 - Keyboard
 - TouchPad
 - SD card reader
+- Battery indicator 
 
 **Doesn't work:**
 
@@ -67,21 +73,23 @@ Select the option named after your installation drive and do the final setup. Af
 - HDMI (This port is connected to DGPU)
 - USB-C to HDMI adapter
 
-## Monterey (in work)
+## Monterey
 
 **Working:**
 
 - Wifi
+- Bluetooth
 - Audio
 - Backlight
 - IGPU
+- Sleep
 - Keyboard
 - Touchpad
 - SD card reader
+- Battery indicator
 
 
 **Doesn't work:**
-- Bluetooth 
 - Camera - (If you have model without ir camera, it may work)
 - DGPU - (Needs to be patched with opencore legacy patcher)
 - Ambient Light sensor 
