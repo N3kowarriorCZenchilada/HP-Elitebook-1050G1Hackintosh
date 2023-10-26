@@ -57,12 +57,12 @@ Select the option named after your installation drive and do the final setup. Af
 - Sleep
 - Keyboard
 - TouchPad
+- SD card port
 
 **Doesn't work:**
 
 - Camera - (If you have model without ir camera, it may work)
-- DGPU - (Needs installation of drivers after installation)
-- Ambient Light sensor (Needs to be setup, if your device has one)
-- SD card port
+- DGPU - (Needs to be patched with opencore legacy patcher)
+- Ambient Light sensor (Needs to be setup, if your device has one, try adding "-igfxblr" to boot-args)
 - HDMI (This port is connected to DGPU)
 - USB-C to HDMI adapter
