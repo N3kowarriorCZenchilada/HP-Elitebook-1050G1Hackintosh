@@ -1,8 +1,7 @@
-# HP Elitebook 1050G1 Hackintosh
-
-HP Elitebook 1050G1 Hackintosh based on Opencore 0.9.5
-
+# HP Elitebook 1050G1 Hackintosh based on Opencore 0.9.5
 > Replace your NVMe with NVMe SATA SSD, or look for a compatible one with successful installation.
+
+## This wouldn't be possible to make for me without help of [Feartech](https://www.tonymacx86.com/members/feartech.877703/#about)
 
 ## Before Installation
 
