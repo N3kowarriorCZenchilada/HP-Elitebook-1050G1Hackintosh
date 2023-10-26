@@ -7,9 +7,8 @@
   <img src="image2.png" width="180" title="hover text" align="right">
 </p>
 
->His [Github](https://github.com/feartech)
->[Post](https://www.tonymacx86.com/threads/hp-elitebook-1050-g1-cannot-boot-to-recovery.327519/)
-<p>&nbsp;</p>
+>  His [Github](https://github.com/feartech)⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯⁬⁯⁬⁯⁬ ◦
+>  Original [Post](https://www.tonymacx86.com/threads/hp-elitebook-1050-g1-cannot-boot-to-recovery.327519/)
 <p>&nbsp;</p>
 
 ## Before Installation
