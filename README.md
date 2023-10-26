@@ -26,8 +26,8 @@ Dont forget to hide TMP chip and disable legacy and SecureBoot in your bios.
 
 2: Use tools like: hackintool, Opencore configurator to customize the installation to your needs and hardware specifics.
 
-
-#**Working:**
+#**Big Sur** 
+>**Working:**
 Wifi - Bluetooth - Audio - Igpu - sleep
 
 #**Doesnt work:**
