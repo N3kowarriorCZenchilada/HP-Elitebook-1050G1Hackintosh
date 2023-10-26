@@ -2,6 +2,9 @@
 > Replace your NVMe with NVMe SATA SSD, or look for a compatible one with successful installation.
 
 ## This wouldn't be possible to make for me without help from [Feartech](https://www.tonymacx86.com/members/feartech.877703/#about) and [TonyMacx86 Forum](https://www.tonymacx86.com).
+<p align="center">
+  <img src="https://www.tonymacx86.com/data/avatars/o/877/877703.jpg?1484495097" width="350" title="hover text">
+</p>
 >His [Github](https://github.com/feartech)
 
 ## Before Installation
