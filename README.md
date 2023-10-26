@@ -10,13 +10,21 @@ Dont forget to hide TMP chip and disable legacy and SecureBoot in your bios.
 
 2: **Generate your own SMBIOS** for **MacBookPro15,2**
 
-3: **Disable IntelBluetoothInjector.kext**, **IntelBluetoothFirmware.kext**, **IntelBTPatcher.kext**, **HibernationFixup.kext**  in config.plist
+3: **Install AirportItlwm.kext** for your macOS version // If you wanna install MacOS I dont have release for.
 
-4: **Install AirportItlwm.kext** for your macOS version // or take specific release
+5: Your hardware may warry: USBToolbx tool to generate **UTBMap.kext** specific to your hardware.
 
-5: Your hardware may warry: Use Opencore Configurator, Hackintoool, USBToolbx tool to **customize this EFI folder** to **your** specific **needs**
+6: After you boot to Opencore, clear NVRAM and reboot your laptop.
 
-6: Create folder NVRAM in same directory as EFI folder
+7: Start Installation
+
+
+
+#**After Installation** 
+1: Re-enable kexts in config.plist:
+>IntelBTPatcher.kext, IntelBluetoothInjector.kext, IntelBluetoothFirmware.kext, HibernationFixup.kext, RealtekCardReader.kext (If I manage to get card reader working)
+
+2: Use tools like: hackintool, Opencore configurator to customize the installation to your needs and hardware specifics.
 
 
 #**Working:**
