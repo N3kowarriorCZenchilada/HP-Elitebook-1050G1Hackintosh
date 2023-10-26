@@ -20,6 +20,17 @@ Before Installation
 7: Start Installation
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+Warning: Expect post errors between installation steps.
+It cannot automatically reboot to installer. 
+<p>&nbsp;</p>
+Installation proccess:
+<p>&nbsp;</p>
+After going through recovery and starting installation of MacOS. You will be rebooted to Opencore or default boot option (If that happens dont worry and reboot to your usb stick with opencore).
+After you boot to opencore there will be new option  "install mac os...". Select it and let it do its things. It will prompt logs, ignore it and wait. After while you will be rebooted again, you will need to select same option. This time after while you should get apple logo with progress bar under it.
+After that you will be rebooted once again.And in opencore there should be two new options.Recovery(dmg) and one that shoul be named after your drive name(you installed MacOS on). 
+Select the option named after your installation drive. And do final setup. After that you will enter desktop environment. And you are done with installation.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 After Installation
 <p>&nbsp;</p>
 1: Re-enable kexts in config.plist:
