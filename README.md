@@ -51,12 +51,17 @@ Select the option named after your installation drive and do the final setup. Af
 - Wifi
 - Bluetooth
 - Audio
-- IGPU
+- Backlight
+- IGPU - Minor Graphics glitches
 - Sleep
+- Keyboard
+- TouchPad
 
 **Doesn't work:**
 
-- Camera
+- Camera - (If you have model without ir camera, it may work)
+- DGPU - (Needs installation of drivers after installation)
+- Ambient Light sensor (Needs to be setup, if your device has one)
 - SD card port
-- HDMI
+- HDMI (This port is connected to DGPU)
 - USB-C to HDMI adapter
