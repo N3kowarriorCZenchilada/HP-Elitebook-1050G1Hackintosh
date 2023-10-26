@@ -1,9 +1,7 @@
 # HP Elitebook 1050G1 Hackintosh based on Opencore 0.9.5
-<p>
-  <img src="hpelitebookImage.jpg" width="200" title="hover text" align="center">
+<p align="center">
+  <img src="hpelitebookImage.jpg" width="400">
 </p>
-
-> Replace your NVMe with NVMe SATA SSD, or look for a compatible one with successful installation.
 
 ## This wouldn't be possible to make for me without help from [Feartech](https://www.tonymacx86.com/members/feartech.877703/#about) and [TonyMacx86 Forum](https://www.tonymacx86.com).
 <p>
@@ -17,7 +15,8 @@
 
 ## Before Installation
 
-(Don't forget to hide TMP chip and disable legacy + SecureBoot in your BIOS.)
+> Replace your NVMe with NVMe SATA SSD, or look for a compatible one with successful installation.
+> (Don't forget to hide TMP chip and disable legacy and SecureBoot in your BIOS.)
 
 1. Use SSDTTime to **generate device-specific ACPI** (Just replace mine).
 
