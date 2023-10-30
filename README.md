@@ -60,7 +60,7 @@ Select the option named after your installation drive and do the final setup. Af
    - Configure Trackpad speed
    - Configure Microphone and Default Audio device
 
-## Big Sur
+## Big Sur (OS soon out of support)
 
 **Working:**
 
@@ -83,7 +83,7 @@ Select the option named after your installation drive and do the final setup. Af
 - HDMI (This port is connected to DGPU)
 - USB-C to HDMI adapter
 
-## Monterey
+## Monterey (Very stable)
 
 **Working:**
 
@@ -106,3 +106,25 @@ Select the option named after your installation drive and do the final setup. Af
 - HDMI (This port is connected to DGPU)
 - USB-C to HDMI adapter
 
+## Ventura (Fairly stable)
+
+**Working:**
+
+- Wifi
+- Bluetooth
+- Audio
+- Backlight - Sometimes glitches (It will fix it self after few seconds to minutes)
+- IGPU
+- Sleep
+- Keyboard
+- Touchpad
+- SD card reader
+- Battery indicator
+
+
+**Doesn't work:**
+- Camera - (If you have model without ir camera, it may work)
+- DGPU - (Needs to be patched with opencore legacy patcher) -disabled in config.plist (remove disable-gpu flag)
+- Ambient Light sensor
+- HDMI (This port is connected to DGPU)
+- USB-C to HDMI adapter (Port is configured as standart usb3c port)
