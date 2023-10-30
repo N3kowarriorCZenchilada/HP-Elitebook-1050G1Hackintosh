@@ -82,6 +82,7 @@ Select the option named after your installation drive and do the final setup. Af
 - Ambient Light sensor 
 - HDMI (This port is connected to DGPU)
 - USB-C to HDMI adapter
+- Air drop
 
 ## Monterey (Very stable)
 
@@ -105,6 +106,7 @@ Select the option named after your installation drive and do the final setup. Af
 - Ambient Light sensor 
 - HDMI (This port is connected to DGPU)
 - USB-C to HDMI adapter
+- Air drop
 
 ## Ventura (Fairly stable)
 
@@ -118,7 +120,7 @@ Select the option named after your installation drive and do the final setup. Af
 - Sleep
 - Keyboard
 - Touchpad
-- SD card reader
+- SD card reader - DO NOT UPDATE THE KEXT (newer version doesnt work)
 - Battery indicator
 
 
@@ -128,3 +130,4 @@ Select the option named after your installation drive and do the final setup. Af
 - Ambient Light sensor
 - HDMI (This port is connected to DGPU)
 - USB-C to HDMI adapter (Port is configured as standart usb3c port)
+- Air drop 
